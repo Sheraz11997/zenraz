@@ -1,0 +1,12 @@
+.btn-color {
+    background-color: rgb(0, 151, 52);
+    color: white;
+}
+
+.border-color {
+    border: 2px solid rgb(0, 151, 52);
+}
+
+.heading-color {
+    color: rgb(0, 151, 52);
+}
